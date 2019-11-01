@@ -25,6 +25,7 @@ org.style.width='3000px';
 org.style.height='3000px';
 firstClick=false; 
 document.querySelector('#moji').innerHTML='ただいま'+i+'回目';
+while(i<=5){alert('🤗🙊💩💀');};
 i++}
 else{firstClick=false; 
 t.style.backgroundColor='#3f51b5';
