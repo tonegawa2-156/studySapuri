@@ -1,0 +1,33 @@
+body{background: #1976d2; color: #ffffff;
+     font-family: verdana;}
+#t1{background:#0d47a1;
+    color: #ffffff;
+    padding: 2px 3px 3px;
+    border-left: solid 4px #4dd0e1;}
+.button{background: #eeeeee;
+        display: inline-block;
+        padding: 3px 25px 3px;
+        text-decoration: none;
+        color:#4e4e4e;
+        border: inset 0.5px #9e9e9e;
+        border-radius: 2px;
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -o-transition: 0.3s;
+        -transition: all 0.3s;}
+#unko{width:30px; height:30px;}
+#ishimoto{width:200px; height:200px;
+           border-left: solid 3px #d500f9;}
+#mm{ width:200px; height: 150px;}
+.infobox{ height: 200px;
+          width: 250px;
+          overflow: scroll; 
+          background: #ffffff;
+          color: #1e88d5;
+          border: #ffffff;}
+#iyana{ height: 100
+px;
+       width: 100px;}
+#ncha{ height: 200px;
+       width: 200px;}
+#moji{font-size: 50px;}
