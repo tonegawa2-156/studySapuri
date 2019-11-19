@@ -36,6 +36,7 @@ org.style.height='3000px';
 document.querySelector('#moji').innerHTML='ただいま'+i+'回目'; 
 while(5<=i){alert('🤗🙊💩💀');};
 i++};
+//89765843番目の軸
 };
 },false);
 var l=0;
